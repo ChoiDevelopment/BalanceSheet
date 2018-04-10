@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuMain_AddWeekly"
+        android:title="Add Weekly"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuMain_AddMonthly"
+        android:title="Add Monthly"
+        app:showAsAction="never" />
+</menu>
